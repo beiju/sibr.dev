@@ -252,7 +252,7 @@ understanding of Blaseball and ability to make future tools, yadda yadda.)
 
 ## A note on timing
 
-This is only possible because we can get the RNG streamand the event stream in 
+This is only possible because we can get the RNG stream and the event stream in 
 order. We have the RNG stream, but in order to do our analysis we also need to 
 know in which order each game was processed on every tick. That order changes 
 randomly in ways that for now appear to be unknowable (because they depend on 
